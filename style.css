@@ -1,0 +1,64 @@
+body{
+    width: 100%;
+    background-image:url(PlanoDeFundo1.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+h1{
+    color: #0e4ddf;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+p{
+    color: #767a82;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;  
+}
+h2{
+    color: #64e164;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;  
+}
+h3{
+    color: #888a91;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px; 
+}
+.container{
+    height: 500px;
+    display:flex;
+    flex-direction: row;
+    flex-direction: no-wrap;
+    justify-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px; 
+}
+.jogodosestagiarios{
+    width: 90%;
+    background-color: white;
+    margin: 0 auto;
+}
+.AnaBolinho{
+    border: 3px solid yellow;
+    border-radius: 10%;
+}
+.JoaoPoDeCafe{
+    border: 3px solid yellow;
+    border-radius: 10%;
+}
+.MariaSemGracas{
+    border: 3px solid yellow;
+    border-radius: 10%;
+}
+.rodape{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    font-style: 5px; 
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
